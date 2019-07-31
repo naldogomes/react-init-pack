@@ -1,5 +1,8 @@
 # React init pack
 
+[![CircleCI](https://circleci.com/gh/C4co/react-init-pack.svg?style=svg)](https://circleci.com/gh/C4co/react-init-pack)
+
+
 Default config to start a react package for NPM.
 
 ### What's inside?
