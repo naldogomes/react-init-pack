@@ -1,24 +1,31 @@
-# React init pack
+# React UTL
 
-[![CircleCI](https://circleci.com/gh/C4co/react-init-pack.svg?style=svg)](https://circleci.com/gh/C4co/react-init-pack)
+[![CircleCI](https://circleci.com/gh/C4co/react-utl.svg?style=svg)](https://circleci.com/gh/C4co/react-utl)
+[![Maintainability](https://api.codeclimate.com/v1/badges/0a89a49257538499dc57/maintainability)](https://codeclimate.com/github/C4co/react-utl/maintainability)
+[![Coverage Status](https://coveralls.io/repos/github/C4co/react-utl/badge.svg?branch=master)](https://coveralls.io/github/C4co/react-utl?branch=master)
 
-Default config to start a react package for NPM.
+Some useful react components.
 
-### What's inside?
-+ [React](https://pt-br.reactjs.org/)
-+ [Jest](https://jestjs.io/)
-+ [Enzyme](https://airbnb.io/enzyme/)
+### Install
+```
+  $ yarn install react-utl
+```
 
 ### Development
 
-First step
+formating with prettier
 ```
-  $ git clone git@github.com:C4co/react-init-pack.git new-pack
+  $ yarn format
 ```
 
-Tests
+tests
 ```
   $ yarn test
+```
+
+build
+```
+  $ yarn build
 ```
 
 ---
