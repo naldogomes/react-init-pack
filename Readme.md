@@ -4,12 +4,22 @@
 
 Initial configuration for npm react packages.
 
-### Install
+## What's inside?
+  + [Jest](https://jestjs.io)
+  + [Storybook](https://storybook.js.org)
+  + [Webpack](https://webpack.js.org)
+
+## Install
 ```
-  $ yarn install react-utl
+  $ yarn install
 ```
 
-### Development
+## Development
+
+run Storybook
+```
+  $ yarn storybook
+```
 
 formating with prettier
 ```
