@@ -31,9 +31,16 @@ tests
   $ yarn test
 ```
 
+## Publish
+
 build
 ```
   $ yarn build
+```
+
+npm
+```
+  # npm publish
 ```
 
 ---
