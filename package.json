@@ -7,7 +7,9 @@
   "scripts": {
     "test": "jest",
     "build": "webpack",
-    "format": "prettier --write src/**/*.{js,jsx}"
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "@babel/core": "^7.5.5",
@@ -26,10 +28,15 @@
     "webpack-cli": "^3.3.6"
   },
   "devDependencies": {
+    "@storybook/addon-actions": "^5.1.11",
+    "@storybook/addon-links": "^5.1.11",
+    "@storybook/addons": "^5.1.11",
+    "@storybook/react": "^5.1.11",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
     "jest": "^24.9.0",
-    "react-test-renderer": "^16.9.0"
+    "react-test-renderer": "^16.9.0",
+    "storybook-readme": "^5.0.8"
   },
   "peerDependencies": {
     "react": "^16.9.0",
