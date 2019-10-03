@@ -58,6 +58,20 @@ npm
   # npm publish
 ```
 
+### Component structure
+
+```
+  📂 component
+  ├─── 📂 __snapshots__
+  ├─── component.js
+  ├─── component.md
+  └─── component.test.js
+```
+
++ ```component.js``` - component definition
++ ```component.md``` - storybook documentation
++ ```component.test.js``` - unity tests
+
 ---
 
 Carlos Costa | 2019
