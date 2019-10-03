@@ -58,7 +58,7 @@ npm
   # npm publish
 ```
 
-### Component structure
+## Component structure
 
 ```
   📂 component
