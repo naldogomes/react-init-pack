@@ -36,3 +36,6 @@ jobs:
       # run tests!
       - run: yarn test
       - run: yarn build
+
+      # report coverage
+      - run: cat coverage/lcov.info | node_modules/coveralls/bin/coveralls.js --verbose
