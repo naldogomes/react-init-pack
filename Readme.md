@@ -1,6 +1,7 @@
 # React init pack
 
 [![CircleCI](https://circleci.com/gh/C4co/react-init-pack.svg?style=svg)](https://circleci.com/gh/C4co/react-init-pack)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f127caa562ff0638fb00/maintainability)](https://codeclimate.com/github/C4co/react-init-pack/maintainability)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/42f5ccdf-418f-4226-8ecb-647439f21f22/deploy-status)](https://app.netlify.com/sites/react-init-pack/deploys)
 
 A simple way to start a react package for npm.
