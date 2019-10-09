@@ -41,5 +41,23 @@
   "peerDependencies": {
     "react": "^16.10.1",
     "react-dom": "^16.10.1"
-  }
+  },
+  "description": "React starter npm package",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C4co/react-init-pack.git"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "package",
+    "init"
+  ],
+  "bugs": {
+    "url": "https://github.com/C4co/react-init-pack/issues"
+  },
+  "homepage": "https://github.com/C4co/react-init-pack#readme"
 }
