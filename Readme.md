@@ -13,23 +13,23 @@
 
 A simple way to start a react package for npm.
 
-## What's inside?
+### What's inside?
   + [Jest](https://jestjs.io)
   + [Storybook](https://storybook.js.org)
   + [Webpack](https://webpack.js.org)
 
-## First step
+### First step
 ```
   $ git clone https://github.com/C4co/react-init-pack.git new-pack
   $ npm init
 ```
 
-## Install
+### Install
 ```
   $ yarn install
 ```
 
-## Development
+### Development
 
 run Storybook
 ```
@@ -46,7 +46,7 @@ tests
   $ yarn test
 ```
 
-## Publish
+### Publish
 
 build
 ```
@@ -58,7 +58,7 @@ npm
   # npm publish
 ```
 
-## Component structure
+### Component structure
 
 ```
   📂 component
